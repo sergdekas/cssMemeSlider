@@ -1,0 +1,13 @@
+:root {
+  --var-color-gray: #e0e0e2;
+  --var-color-dark: #25282a;
+  --var-color-blue: #71acff;
+  --var-color-light: #fff;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+  background-color: var(--var-color-gray);
+  color: var(--var-color-light);
+}
