@@ -59,7 +59,7 @@ body {
 }
 
 .image-box {
-	width: 100%;
+	width: 25%;
 	height: 100%;
 	transition: all 0.5s ease;
 }
@@ -95,12 +95,10 @@ body {
   font-size: 1.5rem;
 }
 
-
 .control-row {
   margin-left: 2rem;
   display: flex;
 }
-
 
 .btn-dot {
   width: 2.5rem;
@@ -113,10 +111,10 @@ body {
 }
 
 .dot {
-  width: 1.3rem;
-  height: 1.3rem;
+  width: 1.2rem;
+  height: 1.2rem;
 
-  border-width: 0.2rem;
+  border-width: 0.1rem;
   border-style: solid;
   border-color: var(--var-color-blue);
   border-radius: 50%;
